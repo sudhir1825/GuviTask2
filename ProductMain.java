@@ -28,7 +28,7 @@ public class ProductMain {
 		
 		System.out.println("Heighest Price - Product Id is : " + result);
 		
-		System.out.println("Heighest Price - Product Id is : " + totalCost);
+		System.out.println("Total Cost : " + totalCost);
 	}
 	
 	public static long heighestPrice(Product[] obj) {//to calculate highest price and return product id
