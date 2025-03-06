@@ -1,3 +1,5 @@
+This repository contains solutions for Task 2 assigned by GUVI. It includes four coding problems, implemented with optimized and well-structured code.
+Introduction to OOPS.
 
 1.1. Screenshot of the output
 
