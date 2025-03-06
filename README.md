@@ -12,4 +12,10 @@
 
 1.3. Screenshot of the output
 
+![image alt](https://github.com/sudhir1825/GuviTask2/blob/4619cd86834d69ac13598aaa6282207b48855fc5/Screenshot%202025-03-06%20at%205.52.15%20PM.png)
+
+
+1.4. Screenshot of the output
+
+
 ![image alt](
